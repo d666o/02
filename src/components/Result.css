@@ -1,0 +1,8 @@
+.window_result {
+    width: 450px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.253);
+    border-radius: 20px 20px 0 0;
+    justify-content: flex-end;
+    align-items: center;
+}

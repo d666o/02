@@ -1,0 +1,9 @@
+.window_operations {
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(31, 31, 31);
+    width: 450px;
+    height: 600px;
+    border-radius: 0 0 20px 20px;
+}
